@@ -1,2 +1,2 @@
 # lab
-Belajar Koding
+JSON sebagai format untuk bertukar data client dan server atau antar aplikasi.
